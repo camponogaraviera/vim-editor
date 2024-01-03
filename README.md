@@ -1,0 +1,8 @@
+- `ggVG`: select all
+- `dd`: deletes an entire line
+- `gg`: beginning of line
+- `shift+$`: end of line
+- `shift+g`: end of file
+- `:number`: go to a specific line number
+- `v`: enters selection mode
+- `> or <` to indent or unindent selected code.
